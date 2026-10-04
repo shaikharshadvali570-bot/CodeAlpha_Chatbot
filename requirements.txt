@@ -1,0 +1,2 @@
+# No external dependencies required.
+# PyChat runs entirely on Python's standard built-in library (Python 3.8+).
